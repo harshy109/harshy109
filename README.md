@@ -20,7 +20,7 @@
 <a href="https://www.leetcode.com/harshitasalvi236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitasalvi236" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> Languages and Tools:</h3>
 <div align="center">
 
   <!-- Languages -->
@@ -63,6 +63,21 @@
   <!-- Design -->
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+
+</div>
+
+<div align="left">
+
+  <h2>📊 GitHub Stats</h2>
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.shion.dev/api?username=harshy109&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=harshy109&theme=dark&hide_border=false" alt="GitHub Streak"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshy109&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 
 </div>
 
